@@ -1,5 +1,17 @@
 .App {
   text-align: center;
+  margin: 0 auto;
+  padding:2rem;
+}
+.inputContainer{
+  position: fixed;
+}
+table{
+  margin: 0 auto;
+  padding:2rem;
+}
+li{
+  list-style-type: none;
 }
 
 .App-logo {
